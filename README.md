@@ -29,6 +29,4 @@ Looking to the future, I am eager to apply the skills and knowledge that I have 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasdeep-s&show_icons=true&locale=en&layout=compact" alt="jasdeep-s" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasdeep-s&show_icons=true&locale=en" alt="jasdeep-s" />
-</p>
+
